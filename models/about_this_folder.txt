@@ -1,0 +1,1 @@
+This folder has the .pth files for both CNN and transformer trained models.

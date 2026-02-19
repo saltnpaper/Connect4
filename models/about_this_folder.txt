@@ -1,1 +1,2 @@
 This folder has the .pth files for both CNN and transformer trained models.
+The .pth file for CNN model is huge, please view/download it from here - https://drive.google.com/file/d/1Hb-0RLukRJNK388v_WN0YIDjRbq8gFEn/view?usp=sharing

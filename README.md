@@ -1,5 +1,5 @@
 # Connect4
-[You can play against the connect4 here] (https://anvil.works/build#clone:HD2M4NJEKKLE5FUS=ZM4EQ6UHT7KAB27UMEKVCUPI)
+You can play against the connect4 here:front-end done using Anvil (https://anvil.works/build#clone:HD2M4NJEKKLE5FUS=ZM4EQ6UHT7KAB27UMEKVCUPI)
 
 ### Overview
 This project presents a comparative analysis of two distinct neural network architectures—a Convolutional Neural Network (CNN) and a Transformer -trained to master the game of Connect 4.
